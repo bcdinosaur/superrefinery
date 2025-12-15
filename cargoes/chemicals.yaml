@@ -1,17 +1,17 @@
-abbreviation: NE
+abbreviation: CH
 available: false
-classes: 32
+classes: 320
 colour: 1
 id: 1
-label: NEWC
-longName: 'new cargo #1'
-name: 'New Cargo #1'
+label: CHEM
+longName: chemicals
+name: Chemicals
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-1.png
+  filename: cargoes/chemicals.png
   left: 0
   top: 0
-unitName: Items
+unitName: Litres
 weight: 16
