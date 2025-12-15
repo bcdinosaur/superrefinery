@@ -1,0 +1,17 @@
+abbreviation: FL
+available: false
+classes: 64
+colour: 1
+id: 0
+label: FUEL
+longName: fuel
+name: Fuel
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/fuel.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16
